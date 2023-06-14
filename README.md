@@ -24,6 +24,7 @@ python train.py
 ```
 
 ### 4. Testing
+Download pretrained model：[百度网盘(jggv)](https://pan.baidu.com/s/1NlvYjPONKEc0cLOuWdVRsg)
 
 ```
 python test.py
